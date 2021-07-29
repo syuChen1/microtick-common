@@ -4,10 +4,6 @@
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
-  "publishConfig": {
-    "registry": "https://github.com/syuChen1/microtick-common.git"
-  },
-  "repository": "https://github.com/syuChen1/microtick-common.git",
   "files": [
     "build/**/*"
   ],
